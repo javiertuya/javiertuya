@@ -24,5 +24,5 @@
 [samples-test-dev](https://github.com/javiertuya/samples-test-dev) ·
 [samples-openapi](https://github.com/javiertuya/samples-openapi) ·
 [samples-db-containers](https://github.com/javiertuya/samples-db-containers) ·
-[samples-branch-snapshots](https://github.com/javiertuya/samples-branch-snapshots) ·
-[samples-branch-snapshots-consumer](https://github.com/javiertuya/samples-branch-snapshots-consumer)
+[branch-snapshots](https://github.com/javiertuya/branch-snapshots) ·
+[branch-snapshots-consumer](https://github.com/javiertuya/branch-snapshots-consumer)
