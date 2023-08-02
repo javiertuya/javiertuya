@@ -1,6 +1,7 @@
 [[Dependabot updates](https://github.com/issues?q=is%3Aopen+is%3Apr+archived%3Afalse+author%3Aapp%2Fdependabot+owner%3Ajaviertuya+owner%3Agiis-uniovi+)]
 [[Assigned](https://github.com/issues?q=is%3Aopen+assignee%3Ajaviertuya+archived%3Afalse+)]
 [[giis-uniovi](https://github.com/giis-uniovi)]
+[[dashboard](https://github.com)]
 
 - Actions:
 [branch-snapshots-action](https://github.com/javiertuya/branch-snapshots-action) ·
